@@ -1,0 +1,54 @@
+{
+    "batman": {
+        "name": "Batman",
+        "realName": "Bruce Wayne",
+        "about": {
+            "address": "Gotham City",
+            "contact": "Bat-signal",
+            "superpowers": {
+                "detectiveSkills": 70,
+                "fightingSkills":70,
+                "money":100
+            }
+        }
+    },
+    "superman": {
+        "name": "Superman",
+        "realName": "Clark Kent",
+        "about": {
+            "address": "Metropolis",
+            "contact": "Superman Signal Watch",
+            "superpowers": {
+                "fight": 80,
+                "heatVision":70,
+                "frostBreath":90
+            }
+        }
+    },
+    "deadpool": {
+        "name": "Deadpool",
+        "realName": "Wade Wilson",
+        "about": {
+            "address": "Vancouver",
+            "contact": "He'll show up",
+            "superpowers": {
+                "accelaretedHealing": 80,
+                "fourthWallBreaks":70,
+                "durability":100
+            }
+        }
+    },
+    "captainAmerica": {
+        "name": "Captain America",
+        "realName": "Steve Rogers",
+        "about": {
+            "address": "New York",
+            "contact": "Avengers",
+            "superpowers": {
+                "vibraniumSteelShield": 100,
+                "handToHandCombat": 80,
+                "enchancedStrength":70
+            }
+        }
+    }
+}

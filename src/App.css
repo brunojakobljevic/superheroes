@@ -1,0 +1,58 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.table-1 {
+  border-collapse: collapse;
+  border-radius:6px;
+  margin: auto;
+  color: coral;
+  font-size: 0.9em;
+  min-width: 400px;
+  box-shadow: 0 0 50px rgba(255, 255, 255, 0.15);
+}
+
+.table-2 {
+  border-collapse: collapse;
+  border-radius:6px;
+  background-color: #310909aa;
+  margin: auto;
+  color: coral;
+  margin-bottom: 2em;
+  font-size: 0.9em;
+  width: 25em;
+  box-shadow: 0 0 50px rgba(255, 255, 255, 0.15);
+}
+
+.real-name {
+  font-family: Brush Script MT, cursive;
+  font-size: 3em;
+}
+
+progress {
+  accent-color: coral;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+::-webkit-progress-value {
+  background-color: coral;
+}
+
+::-moz-progress-bar {
+  background-color: coral;
+}
+
+
+h1 {
+  color: coral;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  filter: drop-shadow(0 0 3rem #310909aa);
+}
